@@ -21,7 +21,7 @@ import math
 
 def main():
     
-    def calc(k):
+    def calc(k): #function for calc
 
         functions = ['sin', 'cos', 'tan', 'sqrt', 'pi']    
         
